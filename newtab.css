@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ffebc1;
+  font-family: "Noto Sans Ethiopic", sans-serif;
+  text-align: center;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.4);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#ethiopian-date {
+  font-size: 28px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+#top-icons {
+  margin-top: 20px;
+}
+
+#top-icons img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  margin: 0 10px;
+}
+
+#story-container {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 60px auto;
+  padding: 30px;
+  border-radius: 12px;
+  width: 60%;
+}
+
+#story-title {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+#story-text {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#story-ref a {
+  color: #ffdca8;
+  text-decoration: underline;
+}
+
+#quick-links {
+  margin-bottom: 40px;
+}
