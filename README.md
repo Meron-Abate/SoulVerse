@@ -34,6 +34,7 @@ Manual Installation (Developer Mode)
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Meron-Abate/SoulVerse.git
-   Enable Developer Mode in the top-right corner.
-   Click Load unpacked and select the SoulVerse folder.
-    Open a new tab to begin using the extension.
+
+-Enable Developer Mode in the top-right corner.
+-Click Load unpacked and select the SoulVerse folder.
+-Open a new tab to begin using the extension.
