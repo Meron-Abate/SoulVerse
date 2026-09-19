@@ -14,7 +14,6 @@ Each time you open a new browser tab, SoulVerse presents:
 
 The extension refreshes twice a day—morning and afternoon—to display a new story and provide users with a calm and thoughtful start to their browsing experience.
 
----
 
 Future Development
 
@@ -25,7 +24,6 @@ In future versions, the system will:
 - Integrate AI-generated background imagery based on the story theme.
 - Include personalized daily reflections or prayers.
 
----
 
 Installation
 
